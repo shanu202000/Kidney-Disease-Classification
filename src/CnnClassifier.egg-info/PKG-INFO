@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: CnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/shanu202000/Kidney-Disease-Classification
+Author: shanu202000
+Author-email: shanu20122000@gmail.com
+Project-URL: Bug Tracker, https://github.com/shanu202000/Kidney-Disease-Classification/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Kidney-Disease-Classification
